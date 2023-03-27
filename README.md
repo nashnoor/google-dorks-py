@@ -6,7 +6,7 @@ Generated using ChatGPT
 
 Run the script below to install
 ```
-curl https://raw.githubusercontent.com/nashnoor/google-dorks-py/main/install.sh >> install.sh && chmod +x install.sh && bash install.sh
+curl https://raw.githubusercontent.com/nashnoor/google-dorks-py/main/install.sh > install.sh && chmod +x install.sh && bash install.sh
 
 ```
 
